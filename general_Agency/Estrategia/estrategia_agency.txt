@@ -1,0 +1,52 @@
+# Estrategia Agency - Servicios Amiwex
+# Creado por Jarvis
+
+## Información de los servicios de Amiwex
+
+### Visión General
+Amiwex es una agencia especializada en soluciones digitales integrales, enfocada en conectar sistemas y optimizar operaciones locales.
+
+### Servicios Principales
+
+1. **Desarrollo de Software**
+   - Aplicaciones web y móviles
+   - Automatización de procesos
+   - Integración de APIs
+
+2. **Consultoría Tecnológica**
+   - Arquitectura de sistemas
+   - Migración a la nube
+   - Optimización de infraestructura
+
+3. **Marketing Digital**
+   - Posicionamiento SEO/SEM
+   - Marketing de contenidos
+   - Analítica de datos
+
+4. **Ciberseguridad**
+   - Auditorías de seguridad
+   - Protección de datos
+   - Cumplimiento normativo
+
+### Contacto
+- Web: www.amiwex.com
+- Email: contacto@amiwex.com
+
+---
+
+## Notas de migración (Jarvis · entorno Linux en la nube)
+
+**Documento definitivo.** Esta copia consolida y sustituye a los archivos sueltos que existían en el repositorio:
+
+| Archivo anterior | Ubicación | Acción |
+|---|---|---|
+| `estrategia_agency.txt` | raíz del repo | Consolidado en este documento y eliminado |
+| `estrategia_agency.txt` | `Escritorio/` (stub local) | Eliminado; contenido único preservado abajo |
+
+**Contenido único preservado del stub local eliminado:**
+
+- Objetivo: Optimizar operaciones locales
+- Alcance: Sistemas conectados desde la laptop *(obsoleto: migrado al entorno Linux en la nube)*
+- Estado: Activo
+
+**Sitio web de la agencia:** `general_Agency/Sitio_Web/` (`index.html` + `style.css`).
