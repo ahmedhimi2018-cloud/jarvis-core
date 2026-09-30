@@ -1,8 +1,10 @@
 /* ============================================================
    Amiwex · Sitio web futurista bilingüe y responsive
    Autor: Jarvis · entorno Linux en la nube
-   Estructura: 1) Tokens  2) Reset  3) Fondo  4) Layout
-               5) Header  6) Hero  7) Secciones  8) Responsive
+   Estructura: 1) Tokens  2) Reset  3) Layout  4) Fondo
+               5) Header  6) Botones  7) Animación  8) Hero
+               9) Secciones  10) Contacto  11) Footer
+               12) Responsive  13) Accesibilidad e impresión
    ============================================================ */
 
 /* ---------- 1. Tokens de diseño ---------- */
@@ -79,6 +81,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .skip-link:focus { left: 0; }
 
+/* ---------- 3. Layout y utilidades ---------- */
 .container {
   width: 100%;
   max-width: var(--maxw);
@@ -93,7 +96,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
   color: transparent;
 }
 
-/* ---------- 3. Capas de fondo futuristas ---------- */
+/* ---------- 4. Capas de fondo futuristas ---------- */
 .bg-grid,
 .bg-glow {
   position: fixed;
